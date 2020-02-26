@@ -12,3 +12,9 @@ Output:
 
 ![alt text](./Emojize.png)
 
+# Model 2
+
+LSTM Model : In this model we used pre-trained glove vectors as corpus and then apply LSTM on this corpus for predicting the emojis for their corresponding text.
+
+![alt text](./LSTM_Emoji_Prediction.png)
+
